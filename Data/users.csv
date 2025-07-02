@@ -1,0 +1,501 @@
+user_id,gender,age,signup_date,location,view_count,order_count,return_count,persona
+1,Male,38,2024-11-01,Cherylhaven,10,6,2,Others
+2,Female,49,2023-09-18,Lake Lisaport,11,0,0,Window Shopper
+3,Male,40,2023-07-13,East Josephville,12,1,1,Bargain Hunter
+4,Male,50,2025-01-19,West Juan,5,2,0,Others
+5,Male,20,2024-01-23,Lake Matthew,14,0,0,Window Shopper
+6,Female,35,2023-12-31,Williamview,11,3,0,Others
+7,Male,42,2023-12-14,North Cynthiaview,6,5,0,Loyalist
+8,Male,59,2023-10-10,North Matthewberg,8,3,1,Others
+9,Male,48,2025-01-16,Evanmouth,11,3,0,Others
+10,Female,20,2023-09-11,Hoffmanville,6,2,0,Others
+11,Male,57,2024-11-30,Lake Rebeccaside,7,0,0,Abandoner
+12,Male,41,2025-01-19,Port Mikeside,13,2,0,Bargain Hunter
+13,Male,49,2025-05-16,South David,6,1,0,Others
+14,Male,39,2024-08-20,Michaelton,11,0,0,Window Shopper
+15,Female,40,2023-08-30,Jasonbury,6,2,0,Others
+16,Male,19,2024-09-24,West Kimberlychester,5,4,0,Loyalist
+17,Female,44,2024-05-16,East Michelle,9,1,1,Frequent Returner
+18,Female,59,2023-07-18,South Angel,11,3,1,Others
+19,Female,19,2023-07-17,Kimberlychester,5,2,1,Frequent Returner
+20,Male,43,2023-09-04,West Erik,9,0,0,Abandoner
+21,Female,34,2023-12-10,South Monicafort,11,3,1,Others
+22,Male,57,2023-12-21,East Lisa,6,2,0,Others
+23,Female,50,2024-07-20,Baileybury,5,0,0,Abandoner
+24,Female,26,2024-10-03,North Donna,13,1,1,Bargain Hunter
+25,Female,56,2023-07-14,Murphyland,5,5,2,Others
+26,Female,46,2024-09-01,Michaelhaven,12,3,0,Others
+27,Female,59,2023-11-25,Frazierside,14,1,0,Bargain Hunter
+28,Female,43,2024-12-31,Sheilaville,9,4,0,Loyalist
+29,Female,52,2024-11-09,Gregoryview,8,3,1,Others
+30,Female,42,2024-12-19,North Candacestad,7,4,0,Loyalist
+31,Male,41,2024-08-20,Samuelhaven,14,1,0,Bargain Hunter
+32,Male,30,2024-05-14,South Rachelborough,11,1,0,Bargain Hunter
+33,Female,24,2023-12-12,Bradleychester,8,1,0,Others
+34,Female,53,2024-06-06,New Saraside,13,2,0,Bargain Hunter
+35,Female,37,2024-09-23,West Ryan,13,6,0,Loyalist
+36,Male,18,2024-01-26,Cindyville,9,1,0,Others
+37,Female,25,2025-03-13,Williamchester,6,2,0,Others
+38,Male,33,2025-04-29,Richardport,8,2,0,Others
+39,Male,31,2023-06-29,East Robert,5,3,1,Others
+40,Male,29,2025-02-02,Byrdburgh,11,0,0,Window Shopper
+41,Male,40,2025-03-10,Richardtown,7,1,0,Others
+42,Male,32,2023-10-26,Justinchester,9,2,1,Frequent Returner
+43,Female,45,2024-12-17,Stevenmouth,6,1,0,Others
+44,Female,51,2024-05-17,New Thomas,9,1,0,Others
+45,Female,19,2024-03-14,Lake Christopher,14,3,0,Others
+46,Female,49,2024-01-25,Clarencebury,7,2,0,Others
+47,Female,40,2023-10-22,Jeffreyborough,5,3,0,Others
+48,Male,39,2023-12-08,North Brandon,5,2,1,Frequent Returner
+49,Female,42,2025-02-06,Carrland,13,0,0,Window Shopper
+50,Female,39,2024-03-11,Perryshire,14,3,0,Others
+51,Male,39,2023-09-11,Lake Heather,6,2,0,Others
+52,Female,59,2023-09-04,Rossberg,6,1,0,Others
+53,Male,23,2024-04-14,Port Michelleville,11,1,0,Bargain Hunter
+54,Female,32,2023-09-07,Robinsonhaven,8,3,0,Others
+55,Male,54,2024-03-28,Williamsbury,10,1,0,Others
+56,Female,50,2025-04-12,South Dennismouth,8,2,0,Others
+57,Female,25,2024-03-17,Stephaniemouth,7,0,0,Abandoner
+58,Male,22,2024-10-04,Rivasside,8,1,0,Others
+59,Male,56,2024-01-15,Merrittfort,8,1,0,Others
+60,Male,21,2025-03-11,Greenbury,7,1,0,Others
+61,Male,23,2023-07-27,Katiehaven,9,0,0,Abandoner
+62,Male,49,2025-01-10,Simsview,10,0,0,Abandoner
+63,Male,47,2024-06-14,Jonesport,12,0,0,Window Shopper
+64,Male,52,2024-08-13,West Matthew,7,2,0,Others
+65,Male,57,2023-09-28,East Edwardfurt,8,1,0,Others
+66,Female,33,2025-06-09,Lake Jason,8,2,0,Others
+67,Female,30,2024-04-13,Russellside,12,2,0,Bargain Hunter
+68,Male,59,2023-08-24,Perryborough,13,2,0,Bargain Hunter
+69,Female,47,2024-08-25,Priceshire,10,2,0,Others
+70,Female,36,2024-02-06,Port Nicoleshire,5,4,0,Loyalist
+71,Female,34,2025-03-29,Woodsstad,10,1,0,Others
+72,Female,36,2024-10-24,Karenchester,7,1,1,Frequent Returner
+73,Male,45,2024-10-16,South Jeffrey,6,1,0,Others
+74,Female,43,2025-05-11,Tuckerfurt,8,1,0,Others
+75,Male,54,2025-04-23,Elizabethfurt,10,4,0,Loyalist
+76,Female,43,2024-03-30,Port Tanner,13,2,0,Bargain Hunter
+77,Female,40,2024-09-14,New Amanda,10,2,2,Frequent Returner
+78,Female,26,2023-11-20,Vargastown,7,1,0,Others
+79,Male,29,2024-12-22,Lake Roymouth,11,4,0,Loyalist
+80,Female,18,2023-08-17,North Jorge,8,2,0,Others
+81,Male,18,2023-07-29,Jasonmouth,8,1,0,Others
+82,Female,51,2024-11-18,Kathleenfurt,10,1,0,Others
+83,Male,49,2023-12-18,Karenchester,8,1,0,Others
+84,Female,42,2025-02-13,Maryfort,9,0,0,Abandoner
+85,Male,57,2024-02-03,Lake Amberstad,5,6,1,Loyalist
+86,Male,18,2023-08-24,Lake Casey,5,1,0,Others
+87,Female,33,2025-04-18,Port Anthonybury,11,3,0,Others
+88,Male,56,2023-12-21,Port Andrew,13,3,0,Others
+89,Female,22,2025-04-27,East David,9,3,0,Others
+90,Female,39,2023-09-10,New Staciemouth,8,4,0,Loyalist
+91,Female,46,2024-04-14,Katieburgh,11,0,0,Window Shopper
+92,Female,20,2024-01-25,Port Loriport,6,2,0,Others
+93,Female,29,2024-06-10,New Anthonyport,12,4,0,Loyalist
+94,Female,43,2024-10-29,Sandersborough,6,2,0,Others
+95,Female,33,2025-04-01,New Hannahbury,10,4,2,Frequent Returner
+96,Female,54,2024-04-02,Lake Kendraville,14,0,0,Window Shopper
+97,Female,39,2023-10-28,West Amandastad,9,2,1,Frequent Returner
+98,Female,46,2024-04-06,New Deborahtown,13,2,1,Bargain Hunter
+99,Female,31,2024-03-25,Shortville,10,4,1,Loyalist
+100,Male,45,2023-12-03,Yumouth,13,2,0,Bargain Hunter
+101,Male,22,2024-11-25,South Gregory,5,2,0,Others
+102,Female,47,2024-01-17,Christinaside,12,1,0,Bargain Hunter
+103,Female,22,2024-12-20,Marshallshire,9,2,1,Frequent Returner
+104,Female,29,2025-06-20,Marcusbury,8,1,0,Others
+105,Female,33,2024-12-05,West Nicolebury,11,2,0,Bargain Hunter
+106,Female,43,2024-11-08,Hudsonfurt,10,1,0,Others
+107,Female,43,2023-08-18,Anthonymouth,14,0,0,Window Shopper
+108,Female,38,2024-10-09,South Jason,11,0,0,Window Shopper
+109,Female,56,2024-10-29,Matthewview,8,3,1,Others
+110,Male,53,2023-11-03,New Stacyland,10,2,0,Others
+111,Female,50,2024-08-11,Lake Richard,12,5,0,Loyalist
+112,Male,47,2025-01-10,Lake Thomas,11,2,0,Bargain Hunter
+113,Female,54,2023-12-31,Westtown,7,2,1,Frequent Returner
+114,Female,40,2023-10-28,West Jeffreybury,7,1,0,Others
+115,Male,27,2024-06-17,Elizabethstad,13,2,0,Bargain Hunter
+116,Female,22,2024-04-13,Transtad,7,3,1,Others
+117,Male,53,2024-01-19,Barajasside,8,4,0,Loyalist
+118,Female,51,2025-06-11,Michaelmouth,5,4,0,Loyalist
+119,Female,48,2024-11-02,Kristopherbury,9,1,0,Others
+120,Male,27,2024-12-09,Lake Jamesville,6,0,0,Abandoner
+121,Female,36,2024-08-29,East Javier,11,0,0,Window Shopper
+122,Male,49,2023-12-11,Hillshire,13,5,0,Loyalist
+123,Female,18,2024-12-06,Tinaborough,11,2,0,Bargain Hunter
+124,Male,22,2024-03-01,Jeremyburgh,11,0,0,Window Shopper
+125,Male,21,2025-04-08,Alexisside,13,0,0,Window Shopper
+126,Female,33,2025-02-09,West Brandon,11,4,0,Loyalist
+127,Female,41,2025-02-15,New Kellyberg,6,1,0,Others
+128,Male,33,2023-08-06,Garciatown,10,1,0,Others
+129,Female,19,2023-12-18,Taylormouth,6,1,0,Others
+130,Female,45,2025-03-23,Jackton,13,3,0,Others
+131,Female,49,2023-07-18,Shelleyfort,13,0,0,Window Shopper
+132,Male,44,2025-03-10,Port Cameronfort,8,3,0,Others
+133,Male,37,2024-02-24,New Crystalton,6,0,0,Abandoner
+134,Male,41,2024-04-30,East Lisa,6,7,0,Loyalist
+135,Male,29,2024-01-17,Christopherbury,12,2,0,Bargain Hunter
+136,Male,52,2023-08-14,New Kathybury,5,1,0,Others
+137,Male,50,2023-12-04,Hayesmouth,8,3,0,Others
+138,Male,50,2025-06-02,Michellechester,10,1,0,Others
+139,Male,54,2024-09-06,Ashleyton,9,0,0,Abandoner
+140,Male,29,2025-05-04,Port Jaredborough,6,1,0,Others
+141,Female,20,2025-01-01,Donnaburgh,5,2,1,Frequent Returner
+142,Male,18,2024-02-23,East Andrea,8,1,0,Others
+143,Female,50,2023-12-06,North Ricky,8,1,0,Others
+144,Female,57,2024-11-14,Carterbury,12,3,0,Others
+145,Female,27,2024-07-15,Jasminemouth,11,0,0,Window Shopper
+146,Male,46,2024-04-26,Lake Jesusview,7,4,1,Loyalist
+147,Male,30,2025-05-11,South Danny,12,2,0,Bargain Hunter
+148,Male,29,2025-06-03,Lake Edward,8,3,0,Others
+149,Male,48,2024-11-04,Margaretland,9,0,0,Abandoner
+150,Female,19,2024-06-14,East Laurashire,5,1,0,Others
+151,Male,52,2023-10-12,Scottmouth,6,4,0,Loyalist
+152,Male,40,2024-01-15,Hollyview,13,3,0,Others
+153,Male,34,2023-10-10,Kimton,6,2,0,Others
+154,Male,43,2024-01-01,Navarroview,11,3,0,Others
+155,Male,25,2025-01-22,North Jeremyshire,7,3,1,Others
+156,Female,46,2024-09-02,Port Emilyview,13,1,0,Bargain Hunter
+157,Male,43,2024-08-15,Port Katelynfort,13,3,0,Others
+158,Female,27,2024-01-14,Moonburgh,7,2,0,Others
+159,Male,43,2025-01-24,Waltersfort,5,0,0,Abandoner
+160,Female,51,2024-09-20,South Michaelmouth,11,1,1,Bargain Hunter
+161,Male,58,2024-05-21,Elizabethburgh,14,2,0,Bargain Hunter
+162,Male,24,2025-05-21,Robertfort,14,1,0,Bargain Hunter
+163,Female,21,2024-09-19,Elainefurt,9,0,0,Abandoner
+164,Female,28,2024-04-29,South Christopherview,10,1,0,Others
+165,Female,46,2024-03-31,Darrellfurt,8,2,0,Others
+166,Male,53,2023-12-11,Lake Mollymouth,14,1,0,Bargain Hunter
+167,Female,42,2023-10-09,Brownhaven,10,1,0,Others
+168,Male,38,2024-07-23,Cindyfort,8,3,0,Others
+169,Male,53,2024-07-11,Wolfborough,13,1,0,Bargain Hunter
+170,Female,27,2023-09-02,Andreaport,11,1,1,Bargain Hunter
+171,Female,54,2025-01-31,Gilmorefort,5,2,1,Frequent Returner
+172,Male,26,2023-07-30,North Teresabury,14,3,0,Others
+173,Male,41,2025-04-22,West Andrea,11,2,0,Bargain Hunter
+174,Female,52,2023-09-17,Davisville,13,1,0,Bargain Hunter
+175,Female,52,2023-10-20,Valentineberg,11,2,0,Bargain Hunter
+176,Female,53,2024-10-23,Cantuport,13,1,0,Bargain Hunter
+177,Male,35,2023-10-26,Robertfort,6,2,0,Others
+178,Male,56,2025-02-28,Sanchezside,11,2,0,Bargain Hunter
+179,Male,49,2024-12-03,South James,11,6,0,Loyalist
+180,Male,41,2024-05-16,Port Chad,6,2,0,Others
+181,Male,40,2024-09-29,Morganhaven,6,2,0,Others
+182,Male,49,2023-08-12,Loriport,5,1,0,Others
+183,Female,54,2024-04-17,Maryshire,5,2,1,Frequent Returner
+184,Male,29,2024-04-15,Grimesmouth,13,1,0,Bargain Hunter
+185,Male,30,2024-09-28,Reedside,14,1,1,Bargain Hunter
+186,Male,40,2024-06-21,Gibsonmouth,10,2,1,Frequent Returner
+187,Female,42,2024-08-07,Lake John,12,2,0,Bargain Hunter
+188,Male,52,2024-01-05,Hallchester,7,2,0,Others
+189,Male,58,2024-08-26,West Juliefurt,13,4,0,Loyalist
+190,Female,47,2025-04-22,Mcneilberg,6,4,2,Frequent Returner
+191,Male,34,2023-07-02,Hannaberg,10,4,1,Loyalist
+192,Male,37,2024-12-03,Mollymouth,13,2,0,Bargain Hunter
+193,Male,42,2025-01-03,New Reneetown,11,1,0,Bargain Hunter
+194,Male,39,2023-09-20,South Monica,7,0,0,Abandoner
+195,Male,30,2024-12-04,North Terrance,13,2,1,Bargain Hunter
+196,Female,36,2025-05-11,Matthewfurt,9,2,0,Others
+197,Female,53,2024-08-14,Port Markside,7,2,1,Frequent Returner
+198,Female,29,2025-01-27,Finleyfort,10,0,0,Abandoner
+199,Male,58,2024-01-17,New Caseyport,6,1,0,Others
+200,Male,36,2025-02-09,Lake Christopher,10,2,0,Others
+201,Male,29,2024-11-02,Port Cynthiaville,10,1,0,Others
+202,Female,26,2024-03-14,Jacksonport,5,0,0,Abandoner
+203,Male,24,2023-09-18,North Markton,6,1,1,Frequent Returner
+204,Male,45,2024-02-06,Michaelchester,6,0,0,Abandoner
+205,Female,31,2024-05-26,East Amanda,7,0,0,Abandoner
+206,Male,48,2023-10-24,East Gregory,14,2,0,Bargain Hunter
+207,Female,36,2024-06-10,Harveybury,13,0,0,Window Shopper
+208,Female,33,2023-06-26,Durhamberg,12,2,0,Bargain Hunter
+209,Female,22,2025-01-04,South Dana,12,3,0,Others
+210,Male,52,2025-05-04,Scotttown,6,3,2,Frequent Returner
+211,Male,29,2025-01-02,Santanaside,5,1,0,Others
+212,Male,42,2024-01-14,North Scott,5,0,0,Abandoner
+213,Male,38,2024-07-16,Vanessaport,11,0,0,Window Shopper
+214,Male,53,2025-02-04,Vaughnmouth,10,3,1,Others
+215,Male,40,2023-11-09,Jamesfurt,8,3,0,Others
+216,Male,33,2024-07-22,Rodriguezfurt,11,3,0,Others
+217,Female,56,2025-06-01,Baileyport,10,1,0,Others
+218,Male,59,2023-09-14,Port Dominiqueview,7,1,1,Frequent Returner
+219,Female,56,2025-04-30,New Michelleton,5,1,0,Others
+220,Male,31,2024-10-21,Wallport,14,5,0,Loyalist
+221,Male,48,2024-02-10,New Laurie,7,1,0,Others
+222,Male,22,2025-04-07,Lake James,7,2,0,Others
+223,Female,52,2024-11-01,Ericaberg,12,1,0,Bargain Hunter
+224,Female,40,2024-07-22,Lake Debbieport,11,1,0,Bargain Hunter
+225,Female,46,2024-10-09,Johnsonstad,5,2,1,Frequent Returner
+226,Female,28,2023-11-25,North Renee,8,2,0,Others
+227,Male,35,2023-10-20,Julieburgh,13,1,0,Bargain Hunter
+228,Female,29,2024-04-09,East Kristin,8,0,0,Abandoner
+229,Male,26,2025-02-05,Alyssaview,12,1,0,Bargain Hunter
+230,Male,27,2023-10-27,West Robin,5,2,0,Others
+231,Female,34,2024-08-15,Coffeyport,9,0,0,Abandoner
+232,Female,55,2025-02-17,Lindamouth,6,3,0,Others
+233,Female,24,2025-06-09,East Karenbury,13,1,0,Bargain Hunter
+234,Female,30,2024-08-08,Coffeyside,9,0,0,Abandoner
+235,Female,57,2025-06-06,Christopherfurt,14,2,0,Bargain Hunter
+236,Female,59,2023-06-24,West Amandamouth,8,5,0,Loyalist
+237,Female,26,2024-10-01,Emilyview,12,2,1,Bargain Hunter
+238,Female,44,2024-03-01,Carsonstad,6,2,0,Others
+239,Male,19,2024-07-07,Lake Jesustown,14,0,0,Window Shopper
+240,Female,22,2023-07-09,Rosebury,9,0,0,Abandoner
+241,Female,46,2023-09-18,Lake Madisonport,14,2,0,Bargain Hunter
+242,Male,54,2025-06-14,Wilsonton,6,0,0,Abandoner
+243,Female,55,2024-03-31,West Wendyville,12,0,0,Window Shopper
+244,Male,36,2025-05-06,East Paigeberg,9,3,0,Others
+245,Male,25,2025-03-30,Chavezside,9,1,0,Others
+246,Female,18,2025-03-11,Matthewsberg,14,5,1,Loyalist
+247,Male,39,2024-02-17,Penafort,13,3,1,Others
+248,Male,34,2023-12-26,Crosbyview,13,0,0,Window Shopper
+249,Male,24,2023-08-07,Lake Mitchellmouth,11,3,0,Others
+250,Male,42,2023-12-28,Sampsonstad,9,0,0,Abandoner
+251,Female,21,2025-05-05,Lake Michaelstad,7,4,0,Loyalist
+252,Male,53,2024-09-06,South Joshuaville,5,0,0,Abandoner
+253,Female,23,2023-08-24,Davisborough,9,5,0,Loyalist
+254,Male,48,2023-08-29,North Kristinbury,12,1,0,Bargain Hunter
+255,Male,36,2025-01-12,Port Anne,6,1,0,Others
+256,Male,56,2024-07-05,Port Kathyborough,5,2,0,Others
+257,Male,44,2025-03-18,Port Molly,14,0,0,Window Shopper
+258,Female,27,2023-08-16,Kimtown,5,2,0,Others
+259,Female,43,2025-02-03,Micheleberg,7,2,1,Frequent Returner
+260,Male,36,2024-08-10,New John,11,5,1,Loyalist
+261,Male,56,2025-02-07,North Donna,6,1,0,Others
+262,Female,20,2023-09-29,East Alexisbury,10,0,0,Abandoner
+263,Male,30,2023-10-01,Alfredview,6,1,0,Others
+264,Male,45,2024-11-17,East Judyhaven,13,1,0,Bargain Hunter
+265,Male,37,2024-06-27,Lake Brycemouth,10,1,0,Others
+266,Female,45,2024-08-24,Williamville,6,2,0,Others
+267,Female,25,2023-10-30,Gordonton,7,1,0,Others
+268,Female,58,2024-01-15,Stephentown,14,2,1,Bargain Hunter
+269,Male,56,2024-08-06,South Melaniechester,9,3,0,Others
+270,Male,18,2025-05-01,South Jennifermouth,9,3,1,Others
+271,Female,20,2024-10-07,North Marcberg,13,2,0,Bargain Hunter
+272,Female,30,2024-05-17,East Joshuashire,13,2,0,Bargain Hunter
+273,Female,45,2023-12-05,Oscarhaven,12,4,1,Loyalist
+274,Female,42,2025-06-14,Shawnchester,8,1,0,Others
+275,Male,50,2024-08-15,Port Jacquelineside,9,1,1,Frequent Returner
+276,Female,55,2025-01-30,South Shannon,14,3,0,Others
+277,Male,23,2025-01-10,South Matthew,8,0,0,Abandoner
+278,Female,49,2024-12-10,Rossville,10,4,1,Loyalist
+279,Male,38,2023-11-27,Ronaldview,9,3,0,Others
+280,Female,33,2024-12-28,Stephaniefort,9,1,0,Others
+281,Female,38,2024-02-21,North Marieland,5,0,0,Abandoner
+282,Female,28,2024-04-28,Davisstad,8,1,0,Others
+283,Female,54,2024-11-26,New Brian,11,2,0,Bargain Hunter
+284,Male,53,2024-11-09,Elizabethchester,10,2,0,Others
+285,Female,52,2024-04-09,Morganchester,9,1,0,Others
+286,Male,36,2024-05-29,West Carolinestad,10,1,1,Frequent Returner
+287,Male,37,2025-05-22,New Williamberg,8,3,0,Others
+288,Male,35,2024-07-30,Walkerville,14,0,0,Window Shopper
+289,Male,58,2024-06-08,Meganstad,7,1,0,Others
+290,Female,31,2023-09-25,Port Joshuabury,6,0,0,Abandoner
+291,Male,32,2024-01-02,Bruceside,8,2,0,Others
+292,Male,48,2023-12-15,New Sarahview,9,3,1,Others
+293,Male,18,2023-08-12,East Joshuaport,7,0,0,Abandoner
+294,Female,20,2024-03-12,Michaelburgh,6,2,0,Others
+295,Female,33,2023-07-10,New Diane,5,1,0,Others
+296,Female,40,2024-09-22,East Joycetown,12,2,0,Bargain Hunter
+297,Female,28,2024-08-27,Lake Alyssafurt,9,0,0,Abandoner
+298,Male,29,2023-12-19,Chavezburgh,13,2,0,Bargain Hunter
+299,Male,27,2024-09-23,Larrymouth,11,1,0,Bargain Hunter
+300,Female,49,2023-12-12,North Ericton,8,0,0,Abandoner
+301,Male,33,2023-06-29,West Scottchester,14,3,1,Others
+302,Male,25,2023-08-18,Lawsonchester,8,1,0,Others
+303,Male,55,2024-12-24,Jasonhaven,7,1,0,Others
+304,Female,29,2024-10-26,West Russellport,9,1,1,Frequent Returner
+305,Female,41,2023-08-08,Roseport,7,2,0,Others
+306,Male,45,2023-12-18,East Randallton,5,3,1,Others
+307,Female,25,2023-08-15,East Kevinborough,8,1,0,Others
+308,Female,45,2025-05-27,Port Jonathan,5,2,0,Others
+309,Female,53,2023-07-18,Davidfort,9,2,0,Others
+310,Female,43,2025-04-21,Thompsonfurt,11,2,0,Bargain Hunter
+311,Female,25,2024-03-06,New Angelica,10,0,0,Abandoner
+312,Male,45,2023-08-18,Charleston,7,2,0,Others
+313,Female,45,2024-07-27,Smithland,9,3,0,Others
+314,Male,54,2023-12-25,Barbarashire,6,0,0,Abandoner
+315,Male,58,2024-01-26,Mckinneychester,13,3,0,Others
+316,Female,53,2024-11-24,Dariustown,6,1,0,Others
+317,Male,44,2024-07-05,Georgemouth,14,2,0,Bargain Hunter
+318,Male,34,2023-12-07,Christopherville,5,1,0,Others
+319,Male,26,2024-08-15,South Brianna,5,2,1,Frequent Returner
+320,Female,50,2023-10-04,South Monicamouth,8,3,0,Others
+321,Female,37,2025-01-05,West Kimberly,6,0,0,Abandoner
+322,Male,30,2025-06-19,New Cynthiahaven,10,2,0,Others
+323,Female,45,2025-05-09,Port Michael,7,0,0,Abandoner
+324,Female,46,2024-09-09,East Curtis,8,2,0,Others
+325,Female,30,2024-09-13,Jamesberg,12,2,0,Bargain Hunter
+326,Female,52,2024-06-25,East Stephaniefort,5,0,0,Abandoner
+327,Male,23,2023-12-29,Webstershire,9,3,0,Others
+328,Male,35,2025-02-22,Maldonadoshire,11,3,0,Others
+329,Female,22,2024-06-25,Michellemouth,10,2,1,Frequent Returner
+330,Female,42,2025-03-12,South Carlos,14,3,0,Others
+331,Male,19,2024-05-05,Welchview,5,3,0,Others
+332,Male,27,2023-11-18,West Williamport,13,1,0,Bargain Hunter
+333,Female,47,2023-09-05,Hayeston,10,3,0,Others
+334,Male,22,2023-09-07,Marieland,9,6,0,Loyalist
+335,Female,50,2024-11-16,New Brookefurt,10,1,0,Others
+336,Female,18,2024-05-23,Carpenterton,14,2,0,Bargain Hunter
+337,Male,35,2024-03-25,Stoutshire,5,2,0,Others
+338,Male,49,2024-05-18,West Cassidy,8,2,1,Frequent Returner
+339,Female,28,2024-05-08,North Shannon,10,1,0,Others
+340,Female,38,2024-06-20,Toniland,8,3,2,Frequent Returner
+341,Male,43,2025-04-24,North John,13,1,0,Bargain Hunter
+342,Female,42,2025-01-10,Ritterhaven,6,1,0,Others
+343,Male,39,2023-08-05,West Nathan,14,5,1,Loyalist
+344,Female,44,2024-11-28,Paulmouth,12,1,0,Bargain Hunter
+345,Male,30,2024-11-12,Port Crystalmouth,5,2,0,Others
+346,Male,50,2024-11-06,West Codyfurt,13,1,0,Bargain Hunter
+347,Male,51,2023-09-08,Johnathanberg,6,4,0,Loyalist
+348,Female,58,2023-08-10,Christopherberg,8,4,1,Loyalist
+349,Female,52,2024-05-01,Kylefurt,5,2,0,Others
+350,Male,18,2025-01-09,New Jeanne,10,2,0,Others
+351,Female,38,2024-03-13,West Angelicamouth,8,1,0,Others
+352,Male,23,2025-03-06,Lake Jacqueline,12,3,0,Others
+353,Male,45,2025-04-23,Lake Ellenhaven,9,1,0,Others
+354,Female,34,2023-09-16,Andrewport,10,0,0,Abandoner
+355,Female,22,2024-01-03,East Matthew,7,2,0,Others
+356,Male,48,2023-11-19,Leeberg,8,0,0,Abandoner
+357,Female,22,2023-11-18,North Kenneth,10,2,0,Others
+358,Female,55,2024-08-13,New Kellihaven,14,3,2,Frequent Returner
+359,Male,20,2024-06-06,Lake Matthewberg,5,3,0,Others
+360,Male,40,2023-10-10,Mooreburgh,14,0,0,Window Shopper
+361,Female,54,2024-05-16,Lake Samuel,11,1,1,Bargain Hunter
+362,Male,54,2023-11-13,Diazbury,5,0,0,Abandoner
+363,Male,27,2024-01-26,Bishopmouth,13,2,0,Bargain Hunter
+364,Female,27,2024-06-17,New John,13,1,0,Bargain Hunter
+365,Male,36,2024-01-04,Mckeeborough,7,0,0,Abandoner
+366,Male,34,2025-05-03,Erikashire,6,3,0,Others
+367,Female,38,2025-06-10,Murrayport,12,4,1,Loyalist
+368,Female,31,2023-08-21,Shawchester,14,2,0,Bargain Hunter
+369,Male,26,2024-06-02,Port James,14,2,0,Bargain Hunter
+370,Male,18,2025-03-12,Port John,13,1,0,Bargain Hunter
+371,Female,30,2025-04-23,Sawyerside,11,1,0,Bargain Hunter
+372,Female,21,2025-04-18,Lake Meghanville,9,3,1,Others
+373,Female,18,2024-08-24,Christopherburgh,10,2,0,Others
+374,Female,57,2023-09-08,Shannonhaven,14,3,0,Others
+375,Male,49,2023-08-02,Port Samuel,5,2,0,Others
+376,Female,51,2024-11-11,Port Shannon,5,2,0,Others
+377,Female,45,2024-08-16,Sarahchester,14,5,0,Loyalist
+378,Male,48,2025-04-03,South Waynebury,8,2,1,Frequent Returner
+379,Female,25,2023-07-05,Vangstad,10,3,0,Others
+380,Male,56,2023-09-04,North Lucas,10,1,0,Others
+381,Female,43,2025-06-12,Port Jennifermouth,5,4,0,Loyalist
+382,Female,51,2025-01-29,East Benjamin,14,2,1,Bargain Hunter
+383,Female,20,2025-04-13,Hortonberg,9,5,0,Loyalist
+384,Male,29,2023-12-24,Westtown,11,1,0,Bargain Hunter
+385,Male,18,2023-10-31,North Jonathanberg,7,1,0,Others
+386,Female,22,2024-05-04,Rodriguezport,7,0,0,Abandoner
+387,Male,47,2024-07-05,West David,9,3,0,Others
+388,Male,47,2024-07-01,South Danielle,6,1,0,Others
+389,Male,34,2023-12-07,Brownfort,9,1,0,Others
+390,Male,40,2025-04-25,Lake Zacharybury,7,3,1,Others
+391,Male,32,2024-04-30,West Ruben,10,1,0,Others
+392,Male,54,2025-05-24,Johnchester,11,2,1,Bargain Hunter
+393,Female,38,2023-08-08,Lake Elizabeth,14,2,0,Bargain Hunter
+394,Female,31,2023-10-29,Carloshaven,10,0,0,Abandoner
+395,Male,19,2024-04-13,South Morganton,11,0,0,Window Shopper
+396,Female,28,2023-06-25,Zavalaview,7,2,1,Frequent Returner
+397,Female,56,2024-04-22,West Kristinastad,9,0,0,Abandoner
+398,Female,55,2024-01-15,Lake Diane,7,1,0,Others
+399,Female,51,2025-06-12,Port Bonniemouth,6,0,0,Abandoner
+400,Male,55,2025-02-22,North Michael,7,1,1,Frequent Returner
+401,Female,51,2025-02-22,Lisaburgh,12,2,0,Bargain Hunter
+402,Female,35,2024-06-11,Pollardfort,9,3,1,Others
+403,Male,47,2024-01-31,Port Dennis,10,3,0,Others
+404,Male,32,2024-05-17,Johnsonborough,12,0,0,Window Shopper
+405,Female,44,2024-12-16,Port Jameston,14,2,0,Bargain Hunter
+406,Female,51,2025-01-11,Sarahhaven,11,0,0,Window Shopper
+407,Female,55,2025-02-21,Haysside,13,2,0,Bargain Hunter
+408,Female,50,2024-08-28,Kingborough,8,3,0,Others
+409,Female,41,2024-11-19,Michaelton,13,5,0,Loyalist
+410,Female,32,2025-01-02,Joshuastad,10,2,0,Others
+411,Male,47,2024-07-06,Prestonmouth,10,0,0,Abandoner
+412,Female,59,2023-10-22,Morganburgh,5,1,0,Others
+413,Female,34,2023-11-18,Holtstad,8,1,0,Others
+414,Male,22,2024-02-09,Lauriechester,14,1,0,Bargain Hunter
+415,Male,46,2023-12-10,South Carrieburgh,6,2,0,Others
+416,Male,21,2023-08-08,Manuelland,14,2,0,Bargain Hunter
+417,Male,27,2024-09-15,Donnaport,6,2,1,Frequent Returner
+418,Female,34,2025-01-15,Morrisonchester,5,2,0,Others
+419,Female,27,2024-08-18,Lake Scott,14,1,0,Bargain Hunter
+420,Female,34,2023-08-10,Williamsstad,6,1,0,Others
+421,Female,37,2025-01-24,Hillton,13,2,0,Bargain Hunter
+422,Female,41,2024-02-22,Lake Danastad,5,3,0,Others
+423,Female,22,2023-08-07,North Douglas,11,2,0,Bargain Hunter
+424,Male,51,2023-08-01,Johnsonland,12,0,0,Window Shopper
+425,Female,23,2024-09-19,Port Deanna,10,3,0,Others
+426,Male,19,2024-06-28,Patrickshire,14,3,0,Others
+427,Male,30,2024-07-18,New Ericmouth,5,6,0,Loyalist
+428,Female,28,2025-06-07,Nathanland,6,3,2,Frequent Returner
+429,Male,40,2025-04-16,New Michael,12,4,1,Loyalist
+430,Female,33,2024-08-09,Debrabury,12,1,0,Bargain Hunter
+431,Male,48,2023-10-24,North Jillfort,6,1,1,Frequent Returner
+432,Female,28,2023-08-07,Mcintyreville,8,3,1,Others
+433,Male,33,2024-07-22,Kimberlymouth,14,1,0,Bargain Hunter
+434,Female,25,2023-08-25,New Justin,9,2,0,Others
+435,Female,21,2025-04-15,Gonzalezberg,7,3,3,Frequent Returner
+436,Female,57,2023-11-15,South Geraldmouth,8,0,0,Abandoner
+437,Female,21,2023-08-16,Port Evelynmouth,12,1,0,Bargain Hunter
+438,Female,42,2024-09-28,Jennaside,11,2,1,Bargain Hunter
+439,Male,20,2023-08-15,Patriciaburgh,14,7,1,Loyalist
+440,Male,49,2024-11-29,Port Michael,14,2,0,Bargain Hunter
+441,Male,20,2025-04-23,North Tracie,10,2,1,Frequent Returner
+442,Female,44,2023-12-23,East Kristy,12,3,0,Others
+443,Male,46,2024-05-02,West Angelastad,5,3,0,Others
+444,Female,49,2023-09-25,Laraside,9,4,0,Loyalist
+445,Female,36,2025-05-15,New Nicole,13,1,0,Bargain Hunter
+446,Male,38,2024-09-08,West Raymondfort,8,2,0,Others
+447,Male,22,2024-01-01,Hammondshire,6,1,0,Others
+448,Female,35,2024-09-15,East Teresaland,14,2,0,Bargain Hunter
+449,Male,45,2024-09-27,Owenshaven,6,1,0,Others
+450,Female,59,2023-07-24,Davidside,13,2,0,Bargain Hunter
+451,Female,39,2024-10-17,Port Tammy,6,2,0,Others
+452,Female,38,2023-08-26,Shawton,12,0,0,Window Shopper
+453,Female,23,2024-05-14,New Ericburgh,10,2,0,Others
+454,Female,18,2024-11-15,West Sarah,13,0,0,Window Shopper
+455,Male,22,2024-09-19,West Stacey,13,4,0,Loyalist
+456,Male,58,2024-09-05,Meghanview,8,0,0,Abandoner
+457,Female,29,2024-08-03,Lake Stephanie,14,0,0,Window Shopper
+458,Female,43,2024-02-24,Davidport,10,2,0,Others
+459,Male,51,2025-06-19,New Danielleshire,5,0,0,Abandoner
+460,Male,31,2024-01-12,East Donna,10,0,0,Abandoner
+461,Female,43,2023-11-29,Meganshire,12,2,0,Bargain Hunter
+462,Male,44,2024-11-25,Port Michelleland,12,1,0,Bargain Hunter
+463,Female,26,2024-12-31,Lake Kelliview,14,2,0,Bargain Hunter
+464,Male,43,2024-02-23,Port Ashley,9,2,0,Others
+465,Female,39,2023-12-26,South Pamelaside,10,1,0,Others
+466,Male,47,2024-01-16,Dawnport,6,1,0,Others
+467,Female,34,2024-04-26,Sanchezfurt,8,6,0,Loyalist
+468,Male,43,2023-10-03,Shawnton,8,1,0,Others
+469,Male,53,2024-11-26,South Robert,9,0,0,Abandoner
+470,Female,18,2024-11-06,Harrisberg,14,0,0,Window Shopper
+471,Male,25,2024-02-12,Michellemouth,6,0,0,Abandoner
+472,Female,52,2024-06-13,Theresaberg,5,2,0,Others
+473,Male,32,2024-02-24,Zacharyville,9,3,1,Others
+474,Female,39,2025-06-14,Johnville,5,2,0,Others
+475,Male,31,2025-01-27,Shannonberg,9,1,0,Others
+476,Female,43,2025-06-19,North Kellyfurt,7,0,0,Abandoner
+477,Male,45,2023-08-19,Wrightburgh,6,1,0,Others
+478,Female,40,2023-07-01,Sarahmouth,13,2,1,Bargain Hunter
+479,Male,31,2024-06-13,Port Erik,8,1,0,Others
+480,Female,41,2024-10-18,Jimenezport,12,2,0,Bargain Hunter
+481,Female,19,2024-09-03,Johnsonfurt,5,2,0,Others
+482,Female,43,2023-09-09,Levyborough,13,4,1,Loyalist
+483,Male,31,2023-08-19,Brandonport,6,1,0,Others
+484,Female,24,2024-08-14,Harperfort,8,1,0,Others
+485,Male,20,2023-12-06,Amandaville,5,3,1,Others
+486,Female,40,2024-07-20,Andersonview,7,0,0,Abandoner
+487,Male,35,2024-01-15,Kathrynstad,12,5,0,Loyalist
+488,Female,55,2023-10-04,South Brettside,5,2,0,Others
+489,Male,52,2025-06-17,West Angela,8,4,1,Loyalist
+490,Male,32,2024-03-21,South Williamside,7,2,0,Others
+491,Female,42,2025-05-08,Marciaville,7,4,0,Loyalist
+492,Male,54,2023-08-16,North Phillip,6,1,0,Others
+493,Male,45,2025-05-06,Angelastad,8,1,0,Others
+494,Female,27,2023-12-30,East Carrie,10,1,0,Others
+495,Male,56,2024-04-06,Porterton,5,2,0,Others
+496,Male,34,2024-01-31,East Jenniferfort,7,5,0,Loyalist
+497,Male,56,2023-10-24,Hernandezhaven,8,1,0,Others
+498,Female,39,2024-05-29,West Sarah,13,3,1,Others
+499,Male,43,2025-04-01,Franciscoport,13,1,0,Bargain Hunter
+500,Female,42,2024-08-18,Williamhaven,10,2,0,Others
