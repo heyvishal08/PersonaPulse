@@ -34,7 +34,7 @@ The goal is to improve marketing targeting, reduce returns, and drive smarter de
 4. **Lifetime Value (LTV)** – Customer value over time by persona  
 5. **Buyer Intent Prediction** – ML output integrated with personas
 
-> 🎥 *Screenshots or GIFs of dashboards can be embedded here.*
+> 🎥 ![KPIs Dashboard](images/persona_pulse_page-0001.jpg)
 
 ---
 
